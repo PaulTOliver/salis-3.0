@@ -1,0 +1,15 @@
+= TODO
+Paul Oliver <contact@pauloliver.dev>
+
+== Core/GFX
+. daemon UI
+. doc. comments
+. process gene view
+. save/load and auto-save
+. selected proc colors
+. sync array swaps
+
+== Architectures
+. salis-v1
+. salis-v3
+. tierra
